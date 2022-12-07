@@ -7,5 +7,5 @@ import com.BikkadIT.PhoneBookWebApplication.entities.Contact;
 @Repository
 public interface  ContactRepository extends JpaRepository<Contact,Integer>
 {
-
+	
 }
